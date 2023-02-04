@@ -30,8 +30,6 @@ h2 {
     font-size: 30px;
     font-weight: 400;
     text-transform: uppercase;
-    display: flex;
-    justify-content: space-around;
     padding: 5rem;
 }
 
@@ -47,14 +45,5 @@ h2 {
 
 .link {
     padding: 3rem;
-    background-color: gray;
-}
-
-.info {
-    font-weight: 300;
-    font-size: 15px;
-    display:flex;
-    justify-content: space-between;
-    padding: 1rem 2rem 1rem 2rem;
     background-color: gray;
 }
